@@ -1,0 +1,9 @@
+# Ignore logs and temporary files
+*.log
+*.env
+vendor/
+node_modules/
+.DS_Store
+
+# Ignore Docker volumes (optional)
+db_data/
